@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "No More Preset Perks",
+	"Description": "No More Preset Perks",
+	"Category": "Other",
+	"CreatedBy": "Mage",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PDML",
+			"Enabled": true,
+			"SemVersion": "EA_0.1.3"
+		}
+	],
+	"ModAuthors": [],
+	"ModPageURL": "",
+	"EnabledByDefault": true,
+	"SemVersion": "1.0.0",
+	"ModEnvironment": "Client",
+	"ModLoaderVersion": "EA_0.1.3"
+}
