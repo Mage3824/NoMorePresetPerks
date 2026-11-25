@@ -1,1 +1,0 @@
-Create a mod plugin containing the basic assets for a Blueprint logic mod.
